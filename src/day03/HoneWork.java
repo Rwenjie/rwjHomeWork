@@ -11,4 +11,8 @@ public class HoneWork {
     //打印99乘法表
 
     //打印等腰三角形
+
+    public static void main(String[] args) {
+
+    }
 }
