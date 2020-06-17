@@ -6,7 +6,7 @@ package day03;
  * @Description:
  * @Date: 2020/6/17   10:47
  **/
-public class HoneWork {
+public class HomeWork {
 
     //打印99乘法表
 
@@ -15,4 +15,5 @@ public class HoneWork {
     public static void main(String[] args) {
 
     }
+
 }
