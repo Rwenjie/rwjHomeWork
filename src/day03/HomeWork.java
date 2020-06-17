@@ -13,6 +13,8 @@ public class HomeWork {
     //打印等腰三角形
 
     public static void main(String[] args) {
+        int a, b;
+        System.out.println("测试pull");
 
     }
 
